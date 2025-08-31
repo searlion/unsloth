@@ -1,0 +1,9 @@
+[project]
+name = "unsloth"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.12"
+dependencies = [
+    "notebook>=7.4.5",
+    "python-dotenv>=1.1.1",
+]

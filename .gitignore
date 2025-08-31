@@ -1,0 +1,5 @@
+gemma-3
+gemma-3-finetune
+outputs
+unsloth_compiled_cache
+.env
